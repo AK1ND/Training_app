@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChuckNorrisFacts</string>
+    <string name="category">Category</string>
+    <string name="value">Value</string>
+</resources>
